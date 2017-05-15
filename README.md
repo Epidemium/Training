@@ -1,4 +1,4 @@
-This tutorial has been given at [Epidemium](http://www.epidemium.cc/) by [Owkin](http://owkin.com/)
+This tutorial has been given at [Epidemium](http://www.epidemium.cc/) by [Owkin](http://owkin.com/). You can contact us at simon.jegou@owkin.com
 
 # Introduction
 
